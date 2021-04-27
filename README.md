@@ -47,3 +47,6 @@ Sobre el programa
     ¿Qué tipo de funcionamiento tiene el LED? ¿qué ocurre si se activa o desactiva? ¿Es necesario programarlo con arduino o basta utilizar hardware para hacerlo funcionar?
    
    **Si le das al interruptor se enciende y si le vuelves a dar se apaga. No es necesarlo programar con arduino.**
+   
+   ![imagen](https://user-images.githubusercontent.com/78345639/116237758-ebd16600-a760-11eb-9c64-ff439ffb714e.png)
+
