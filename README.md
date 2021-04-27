@@ -6,6 +6,8 @@ Sobre el tipo de bombilla
 
     ¿Cuántos leds va a tener mi lámpara? ¿Van a ser de uno o de varios colores?
     
+   **El tipo de bombilla es un LED**
+    
    **Principalmente sera 1 LED.**
     
 
