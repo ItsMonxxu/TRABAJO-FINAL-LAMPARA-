@@ -52,5 +52,6 @@ Sobre el programa
 
    ![imagen](https://user-images.githubusercontent.com/78345639/116237890-099ecb00-a761-11eb-96f2-8df59f18a7d2.png)
    
-   ![imagen](https://user-images.githubusercontent.com/78345639/116237971-1f13f500-a761-11eb-93c7-e02679db5eac.png)
+   ![imagen](https://user-images.githubusercontent.com/78345639/116238238-68644480-a761-11eb-9eaa-dddc651f2877.png)
+
  
