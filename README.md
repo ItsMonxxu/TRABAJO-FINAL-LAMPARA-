@@ -58,6 +58,6 @@ Sobre el programa
 
 ![imagen](https://user-images.githubusercontent.com/78345639/116392974-62359d00-a821-11eb-8ee6-ae67ac29ad02.png)
 
-La foto es de los eloementos que iran en el metracilato y la linea roja es la pieza de metracilato y las piezas que hay por encima son las que se marcaran cuando se encienda el LED.
+La foto es de los eloementos que iran en el metraqilato y la linea roja es la pieza de metraqilato y las piezas que hay por encima son las que se marcaran cuando se encienda el LED.
 
 
