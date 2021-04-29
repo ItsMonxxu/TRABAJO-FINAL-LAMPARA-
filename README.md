@@ -69,3 +69,5 @@ La foto es de la caja donde van los cables y las luces.
 asi es como quedara el metraquilato
 
 me queda hacer el esquema del circuito , y imprimir la caja en 3D y cortar el metraquilato y montarlo todo y probar que funcione.
+
+El circuito sera un cable USB conectado a la corriente u la otra parte del USB conectado al boton y el botn a los LED. 
