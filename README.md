@@ -66,5 +66,6 @@ La foto es de la caja donde van los cables y las luces.
 
 ![imagen](https://user-images.githubusercontent.com/78345639/116533301-822c9580-a8e1-11eb-8b8b-69435639d6f5.png)
 
-asi es comop quedara el metraquilato
+asi es como quedara el metraquilato
 
+me queda hacer el esquema del circuito , y imprimir la caja y cortar el metraquilato.
