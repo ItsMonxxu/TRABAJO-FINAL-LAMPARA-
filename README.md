@@ -60,4 +60,8 @@ Sobre el programa
 
 La foto es de los eloementos que iran en el metraquilato y la linea roja es la pieza de metraquilato y las piezas que hay por encima son las que se marcaran cuando se encienda el LED.
 
+![imagen](https://user-images.githubusercontent.com/78345639/116525492-dc752880-a8d8-11eb-954d-39ff0e9d305a.png)
+
+La foto es de la caja donde van los cables y las luces.
+
 
