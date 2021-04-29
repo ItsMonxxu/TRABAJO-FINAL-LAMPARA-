@@ -64,4 +64,7 @@ La foto es de los eloementos que iran en el metraquilato y la linea roja es la p
 
 La foto es de la caja donde van los cables y las luces.
 
+![imagen](https://user-images.githubusercontent.com/78345639/116533301-822c9580-a8e1-11eb-8b8b-69435639d6f5.png)
+
+asi es comop quedara el metraquilato
 
