@@ -76,3 +76,6 @@ El circuito sera un cable USB conectado a la corriente y la otra parte del USB c
 
    He cojido un cable lo he pelado de una punta, u n cable lo he conectado a una resistencia y el otro a la bombnilla y despues he conectado la resistencia a la bombilla.
    
+   ![imagen](https://user-images.githubusercontent.com/78345639/116671067-cf237100-a9a0-11eb-8cb2-d22c35a71430.png)
+
+   
