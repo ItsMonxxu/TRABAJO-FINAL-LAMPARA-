@@ -70,4 +70,9 @@ asi es como quedara el metraquilato
 
 me queda hacer el esquema del circuito , y imprimir la caja en 3D y cortar el metraquilato y montarlo todo y probar que funcione.
 
-El circuito sera un cable USB conectado a la corriente y la otra parte del USB conectado al boton y el botn a los LED. 
+El circuito sera un cable USB conectado a la corriente y la otra parte del USB conectado al boton y el botn a los LED.  
+
+   ![imagen](https://user-images.githubusercontent.com/78345639/116666726-98972780-a99b-11eb-9c2a-5dff688c33b8.png)
+
+   He cojido un cable lo he pelado de una punta, u n cable lo he conectado a una resistencia y el otro a la bombnilla y despues he conectado la resistencia a la bombilla.
+   
