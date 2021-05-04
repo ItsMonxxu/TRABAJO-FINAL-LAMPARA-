@@ -79,5 +79,6 @@ El circuito sera un cable USB conectado a la corriente y la otra parte del USB c
    ![imagen](https://user-images.githubusercontent.com/78345639/116671067-cf237100-a9a0-11eb-8cb2-d22c35a71430.png)
 
 ![imagen](https://user-images.githubusercontent.com/78345639/116990459-69522480-acd3-11eb-8922-43abaa92a731.png)
+
 en el agujero se pone una tira de leds y si se funden los leds es mas facil y practico cambiar los leds
 
